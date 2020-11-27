@@ -1,0 +1,6 @@
+---
+name: DCord
+version: 0.0.1
+main: JviguyGames\DCord\DCord
+api: 3.16.0
+...
