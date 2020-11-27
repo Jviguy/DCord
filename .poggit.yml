@@ -7,4 +7,5 @@ projects:
     path: ""
     model: virion
     type: library
+    icon: "dcord.jpg"
 ...
