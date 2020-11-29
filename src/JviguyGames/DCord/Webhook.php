@@ -11,7 +11,7 @@ use pocketmine\Server;
 class Webhook
 {
 
-    /** @var $url string the webhook url */
+    /** @var string the webhook url $url */
     private $url;
 
     /**
