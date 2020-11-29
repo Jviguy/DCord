@@ -4,13 +4,11 @@ declare(strict_types=1);
 
 namespace JviguyGames\DCord\Embeds;
 
-use ArrayAccess;
 use JsonSerializable;
-use pocketmine\utils\Color;
 
 class Embed implements JsonSerializable {
 
-    /** @var string[]|string[][] $json */
+    /** @var string[]|string[][]|EmbedMember|int $json */
 
     private $json;
 
