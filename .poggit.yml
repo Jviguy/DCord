@@ -5,6 +5,9 @@ branches:
 projects:
   DCord:
     path: ""
+    icon: "dcord.jpg"
+  LibDCord:
+    path: ""
     model: virion
     type: library
     icon: "dcord.jpg"
