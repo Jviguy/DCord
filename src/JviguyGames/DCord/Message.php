@@ -10,7 +10,7 @@ use JviguyGames\DCord\Embeds\Embed;
 class Message implements JsonSerializable
 {
 
-    /** @var  string[]|string[][] $json  */
+    /** @var  string[]|string[][]|bool $json  */
     private $json;
 
     public function jsonSerialize()
