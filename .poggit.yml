@@ -5,10 +5,10 @@ branches:
 projects:
   DCord:
     path: ""
-    icon: "dcord.jpg"
+    icon: "dcord.png"
   LibDCord:
     path: ""
     model: virion
     type: library
-    icon: "dcord.jpg"
+    icon: "dcord.png"
 ...
