@@ -2,8 +2,6 @@
 
 namespace JviguyGames\DCord;
 
-
-
 use JviguyGames\DCord\Embeds\Embed;
 use pocketmine\plugin\PluginBase;
 

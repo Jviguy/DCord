@@ -20,7 +20,7 @@ class EmbedFields extends EmbedMember
         return $this->fields;
     }
 
-    public function AddField(EmbedFields $field) {
+    public function AddField(EmbedField $field) {
         $this->fields[] = $field;
     }
 

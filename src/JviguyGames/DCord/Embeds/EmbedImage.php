@@ -7,7 +7,7 @@ namespace JviguyGames\DCord\Embeds;
 class EmbedImage extends EmbedMember
 {
     /**
-     * @var $url string
+     * @var string $url
      */
     private $url;
 

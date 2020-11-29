@@ -10,7 +10,7 @@ use pocketmine\utils\Color;
 
 class Embed implements JsonSerializable {
 
-    /** @var $json string[] */
+    /** @var string[]|string[][] $json */
 
     private $json;
 
